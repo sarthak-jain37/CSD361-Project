@@ -1,0 +1,10 @@
+Python: 3.13.3
+Operating System: Windows-11-10.0.26200-SP0
+NumPy: 2.5.4
+Pandas: 3.1.1
+Pillow: 13.0.0
+Scikit-learn: 1.9.1
+PyTorch: 2.15.0+cu132
+TorchVision: 0.29.2+cu132
+CUDA available: True
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU

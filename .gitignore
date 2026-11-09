@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Raw dataset archives & extracted large dataset files (>4 GB)
+archive (2).zip
+archive (2)/
+*.zip
+*.tar.gz
+*.7z
+
+# Data raw files if downloaded locally (keep processed manifest/splits if desired)
+data/raw/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
